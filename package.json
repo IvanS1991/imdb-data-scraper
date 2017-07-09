@@ -1,0 +1,20 @@
+{
+  "name": "imdb-data-scraper",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Ivan Shtarbanov <haifischy91@gmail.com>",
+  "license": "MIT",
+  "description": "Data scraper for IMDB movies",
+  "devDependencies": {
+    "babel-eslint": "^7.2.3",
+    "chai": "^4.0.2",
+    "eslint": "^4.1.1",
+    "eslint-config-google": "^0.8.0",
+    "mocha": "^3.4.2"
+  },
+  "dependencies": {
+    "jsdom": "^11.1.0",
+    "lodash": "^4.17.4",
+    "node-fetch": "^1.7.1"
+  }
+}

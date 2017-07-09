@@ -6,7 +6,7 @@ Data scraper for IMDB movies
 
 Install with npm
 ```
-npm install git@github.com:IvanS1991/imdb-data-scraper.git
+npm install https://github.com/IvanS1991/imdb-data-scraper.git
 ```
 
 ## API Reference
